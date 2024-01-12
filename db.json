@@ -213,7 +213,7 @@
     {
       "id": 1,
       "img": "/assets/covers/album-10.jpg",
-      "name": "Album 10",
+      "name": "be there",
       "tracks": [
         {
           "name": "Gravity",
@@ -256,7 +256,7 @@
     {
       "id": 2,
       "img": "/assets/covers/album-09.jpg",
-      "name": "Album 09",
+      "name": "Aurora Arc",
       "tracks": [
         {
           "name": "aurora arc",
@@ -311,7 +311,7 @@
           "src": "assets/audios/album-09/music-13.mp3"
         },
         {
-          "name": "Nagareboshinoshoutai",
+          "name": "Nagareboshi no shoutai",
           "src": "assets/audios/album-09/music-14.mp3"
         }
       ]
@@ -319,7 +319,7 @@
     {
       "id": 3,
       "img": "/assets/covers/album-08.jpg",
-      "name": "Album 08",
+      "name": "Butterflies",
       "tracks": [
         {
           "name": "Go",
@@ -370,7 +370,7 @@
     {
       "id": 4,
       "img": "/assets/covers/album-07.jpg",
-      "name": "Album 07",
+      "name": "Ray",
       "tracks": [
         {
           "name": "WILL",
@@ -433,7 +433,7 @@
     {
       "id": 5,
       "img": "/assets/covers/album-06.jpg",
-      "name": "Album 06",
+      "name": "Cosmonaut",
       "tracks": [
         {
           "name": "Mitsuboshi Quartet",
@@ -490,6 +490,277 @@
         {
           "name": "Beautiful Glider",
           "src": "assets/audios/album-06/music-14.mp3"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "img": "/assets/covers/album-05.jpg",
+      "name": "Orbital Period",
+      "tracks": [
+        {
+          "name": "Voyager",
+          "src": "assets/audios/album-05/music-1.mp3"
+        },
+        {
+          "name": "Hoshi no Tori",
+          "src": "assets/audios/album-05/music-2.mp3"
+        },
+        {
+          "name": "Mayday",
+          "src": "assets/audios/album-05/music-3.mp3"
+        },
+        {
+          "name": "Sainoujin Ouenka",
+          "src": "assets/audios/album-05/music-4.mp3"
+        },
+        {
+          "name": "Planetarium",
+          "src": "assets/audios/album-05/music-5.mp3"
+        },
+        {
+          "name": "Supernova",
+          "src": "assets/audios/album-05/music-6.mp3"
+        },
+        {
+          "name": "Hammer Song to Itami no Tou",
+          "src": "assets/audios/album-05/music-7.mp3"
+        },
+        {
+          "name": "Jikuu Kakurenbo",
+          "src": "assets/audios/album-05/music-8.mp3"
+        },
+        {
+          "name": "Kasabutabutabu",
+          "src": "assets/audios/album-05/music-9.mp3"
+        },
+        {
+          "name": "Hana no Na",
+          "src": "assets/audios/album-05/music-10.mp3"
+        },
+        {
+          "name": "Hitorigoto",
+          "src": "assets/audios/album-05/music-11.mp3"
+        },
+        {
+          "name": "Amedama no Uta",
+          "src": "assets/audios/album-05/music-12.mp3"
+        },
+        {
+          "name": "Hoshi no Tori reprise",
+          "src": "assets/audios/album-05/music-13.mp3"
+        },
+        {
+          "name": "Karma",
+          "src": "assets/audios/album-05/music-14.mp3"
+        },
+        {
+          "name": "Arrows",
+          "src": "assets/audios/album-05/music-15.mp3"
+        },
+        {
+          "name": "Namida no Furusato",
+          "src": "assets/audios/album-05/music-16.mp3"
+        },
+        {
+          "name": "Flyby",
+          "src": "assets/audios/album-05/music-17.mp3"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "img": "/assets/covers/album-04.jpg",
+      "name": "Yggdrasil",
+      "tracks": [
+        {
+          "name": "asgard",
+          "src": "assets/audios/album-04/music-1.mp3"
+        },
+        {
+          "name": "Only Lonely Glory",
+          "src": "assets/audios/album-04/music-2.mp3"
+        },
+        {
+          "name": "Jyoushaken",
+          "src": "assets/audios/album-04/music-3.mp3"
+        },
+        {
+          "name": "Guild",
+          "src": "assets/audios/album-04/music-4.mp3"
+        },
+        {
+          "name": "embrace",
+          "src": "assets/audios/album-04/music-5.mp3"
+        },
+        {
+          "name": "sailing day",
+          "src": "assets/audios/album-04/music-6.mp3"
+        },
+        {
+          "name": "Onaji Door wo Kuguretara",
+          "src": "assets/audios/album-04/music-7.mp3"
+        },
+        {
+          "name": "Sharin no Uta",
+          "src": "assets/audios/album-04/music-8.mp3"
+        },
+        {
+          "name": "Snow Smile",
+          "src": "assets/audios/album-04/music-9.mp3"
+        },
+        {
+          "name": "Rem",
+          "src": "assets/audios/album-04/music-10.mp3"
+        },
+        {
+          "name": "fire sign",
+          "src": "assets/audios/album-04/music-11.mp3"
+        },
+        {
+          "name": "Taiyou",
+          "src": "assets/audios/album-04/music-12.mp3"
+        },
+        {
+          "name": "Lost Man",
+          "src": "assets/audios/album-04/music-13.mp3"
+        },
+        {
+          "name": "midgard",
+          "src": "assets/audios/album-04/music-14.mp3"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "img": "/assets/covers/album-03.jpg",
+      "name": "Jupiter",
+      "tracks": [
+        {
+          "name": "Stage of the Ground",
+          "src": "assets/audios/album-03/music-1.mp3"
+        },
+        {
+          "name": "Tentai Kansoku",
+          "src": "assets/audios/album-03/music-2.mp3"
+        },
+        {
+          "name": "Title of Mine",
+          "src": "assets/audios/album-03/music-3.mp3"
+        },
+        {
+          "name": "Catch Ball",
+          "src": "assets/audios/album-03/music-4.mp3"
+        },
+        {
+          "name": "Harujion",
+          "src": "assets/audios/album-03/music-5.mp3"
+        },
+        {
+          "name": "Bench and Coffee",
+          "src": "assets/audios/album-03/music-6.mp3"
+        },
+        {
+          "name": "Melody Flag",
+          "src": "assets/audios/album-03/music-7.mp3"
+        },
+        {
+          "name": "Bell",
+          "src": "assets/audios/album-03/music-8.mp3"
+        },
+        {
+          "name": "Diamond",
+          "src": "assets/audios/album-03/music-9.mp3"
+        },
+        {
+          "name": "Dandelion",
+          "src": "assets/audios/album-03/music-10.mp3"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "img": "/assets/covers/album-02.jpg",
+      "name": "The Living Dead",
+      "tracks": [
+        {
+          "name": "Opening",
+          "src": "assets/audios/album-02/music-1.mp3"
+        },
+        {
+          "name": "Gungnir",
+          "src": "assets/audios/album-02/music-2.mp3"
+        },
+        {
+          "name": "Best Picture",
+          "src": "assets/audios/album-02/music-3.mp3"
+        },
+        {
+          "name": "Another Trifling Song",
+          "src": "assets/audios/album-02/music-4.mp3"
+        },
+        {
+          "name": "Lamp",
+          "src": "assets/audios/album-02/music-5.mp3"
+        },
+        {
+          "name": "K",
+          "src": "assets/audios/album-02/music-6.mp3"
+        },
+        {
+          "name": "Lily",
+          "src": "assets/audios/album-02/music-7.mp3"
+        },
+        {
+          "name": "Ever Lasting Lie",
+          "src": "assets/audios/album-02/music-8.mp3"
+        },
+        {
+          "name": "Glorious Revolution",
+          "src": "assets/audios/album-02/music-9.mp3"
+        },
+        {
+          "name": "Ending",
+          "src": "assets/audios/album-02/music-10.mp3"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "img": "/assets/covers/album-01.jpg",
+      "name": "Flame Vein",
+      "tracks": [
+        {
+          "name": "Glass no Blues",
+          "src": "assets/audios/album-01/music-1.mp3"
+        },
+        {
+          "name": "Trifling Song",
+          "src": "assets/audios/album-01/music-2.mp3"
+        },
+        {
+          "name": "Arue",
+          "src": "assets/audios/album-01/music-3.mp3"
+        },
+        {
+          "name": "Little Braver",
+          "src": "assets/audios/album-01/music-4.mp3"
+        },
+        {
+          "name": "No Hit No Run",
+          "src": "assets/audios/album-01/music-5.mp3"
+        },
+        {
+          "name": "Special Song",
+          "src": "assets/audios/album-01/music-6.mp3"
+        },
+        {
+          "name": "Knife",
+          "src": "assets/audios/album-01/music-7.mp3"
+        },
+        {
+          "name": "Battle Cry",
+          "src": "assets/audios/album-01/music-8.mp3"
         }
       ]
     }
